@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 <h3>AIM:</h3>
-<h3>ENTER YOUR NAME :NITHYAA SRI</h3>
+<h3>ENTER YOUR NAME :NITHYAA SRI S S</h3>
 <h3>ENTER YOUR REGISTER NO:212222230100</h3>
 <h3>EX. NO:2</h3>
 <h3>DATE:13/09/2024</h3>
